@@ -2,6 +2,8 @@
 
 This is a Laravel 10 application built with Inertia.js, Docker, Laravel Sail, and Tailwind CSS. It demonstrates the power of Inertia.js and Tailwind CSS, featuring responsive design for all screen sizes and support for both dark and light themes.
 
+Demo: [https://runliq](https://property.runliq.com)
+
 ## Project Overview
 
 This website is designed for selling properties. It includes:
